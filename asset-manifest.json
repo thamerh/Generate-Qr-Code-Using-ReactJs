@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/generate-qr-code-using-reactjs/static/css/main.726ae96b.css",
+    "main.js": "/generate-qr-code-using-reactjs/static/js/main.10533907.js",
+    "index.html": "/generate-qr-code-using-reactjs/index.html",
+    "main.726ae96b.css.map": "/generate-qr-code-using-reactjs/static/css/main.726ae96b.css.map",
+    "main.10533907.js.map": "/generate-qr-code-using-reactjs/static/js/main.10533907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.726ae96b.css",
+    "static/js/main.10533907.js"
+  ]
+}
